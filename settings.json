@@ -1,0 +1,188 @@
+{
+	"todo-tree.tree.showScanModeButton": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.suggest.showSnippets": true,
+	"dart.flutterSdkPath": "/Users/chris/Coding/flutter",
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"auto-close-tag.activationOnLanguage": [
+		"xml",
+		"php",
+		"blade",
+		"ejs",
+		"jinja",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"plaintext",
+		"markdown",
+		"vue",
+		"liquid",
+		"erb",
+		"lang-cfml",
+		"cfml",
+		"HTML (EEx)",
+		"HTML (Eex)",
+		"plist"
+	],
+	"vetur.format.options.useTabs": true,
+	"vetur.format.scriptInitialIndent": true,
+	"vetur.format.styleInitialIndent": true,
+	"eslint.format.enable": true,
+	"[python]": {},
+	"python.linting.pylintArgs": [
+		"--load-plugins=pylint_django"
+	],
+	"git.confirmSync": false,
+	"editor.tokenColorCustomizations": {
+		"[GitHub Dark]": {
+			"textMateRules": [
+				{
+					"scope": "variable.parameter",
+					"settings": {
+						"foreground": "#ffffff"
+					}
+				}
+			]
+		},
+		"[Solarized Light]": {
+			"textMateRules": [
+				{
+					"scope": "punctuation.definition.list.begin.markdown",
+					"settings": {
+						"foreground": "#cc7000",
+					},
+				},
+				{
+					"scope": "markup.list",
+					"settings": {
+						"foreground": "#1c1c1c",
+					}
+				},
+				{
+					"scope": "variable.other",
+					"settings": {
+						"foreground": "#1c1c1c",
+					}
+				}
+			]
+		}
+	},
+	"dart.promptToGetPackages": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"python.autoComplete.addBrackets": true,
+	"code-runner.showExecutionMessage": false,
+	"code-runner.showRunIconInEditorTitleMenu": false,
+	"code-runner.showRunCommandInExplorerContextMenu": false,
+	"code-runner.showRunCommandInEditorContextMenu": false,
+	"code-runner.saveFileBeforeRun": true,
+	"C_Cpp.updateChannel": "Insiders",
+	"cSpell.userWords": [
+		"Bioservo",
+		"Ironhand",
+		"MSDs",
+		"WMSD",
+		"gamified",
+		"typeahead"
+	],
+	"files.exclude": {
+		"**/.dart_tool": true,
+		"**/.flutter-plugins": true,
+		"**/.flutter-plugins-dependencies": true,
+		"**/.metadata": true
+	},
+	"pasteImage.path": "${currentFileDir}/images",
+	"editor.minimap.enabled": false,
+	"cSpell.enabledLanguageIds": [
+		"asciidoc",
+		"c",
+		"cpp",
+		"csharp",
+		"css",
+		"git-commit",
+		"go",
+		"handlebars",
+		"haskell",
+		"html",
+		"jade",
+		"java",
+		"javascript",
+		"javascriptreact",
+		"json",
+		"jsonc",
+		"latex",
+		"less",
+		"markdown",
+		"php",
+		"plaintext",
+		"python",
+		"pug",
+		"restructuredtext",
+		"rust",
+		"scala",
+		"scss",
+		"text",
+		"typescript",
+		"typescriptreact",
+		"yml"
+	],
+	"vscodeGoogleTranslate.preferredLanguage": "English",
+	"markdown.extension.tableFormatter.enabled": false,
+	"multiline-move.noLines": 5,
+	"debug.openDebug": "neverOpen",
+	"editor.wordWrapColumn": 80,
+	"editor.wordBasedSuggestions": false,
+	"[markdown]": {
+		"editor.wordWrap": "on",
+		"editor.wordWrapColumn": 80
+	},
+	"prettier.disableLanguages": [
+		"markdown"
+	],
+	"gutterpreview.imagePreviewMaxHeight": 200,
+	"workbench.activityBar.visible": true,
+	"workbench.statusBar.visible": true,
+	"gitlens.mode.active": "zen",
+	"customizeUI.stylesheet": {
+		".editor-actions": "display: none !important;"
+	},
+	"editor.cursorBlinking": "solid",
+	"dart.warnWhenEditingFilesOutsideWorkspace": false,
+	"markdown-pdf.displayHeaderFooter": false,
+	"vscodeGoogleTranslate.HoverTranslations": true,
+	"cSpell.enabled": false,
+	"gitlens.statusBar.reduceFlicker": true,
+	"dart.debugExternalLibraries": true,
+	"dart.debugSdkLibraries": true,
+	"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+	"terminal.integrated.shellArgs.windows": [
+		"/K",
+		"C:\\Users\\Chris\\Documents\\cmder\\vendor\\init.bat"
+	],
+	"dart.previewLsp": true,
+	"[dart]": {
+		"editor.formatOnSave": true,
+		"editor.formatOnType": true,
+		"editor.rulers": [
+			80
+		],
+		"editor.selectionHighlight": false,
+		"editor.suggest.snippetsPreventQuickSuggestions": true,
+		"editor.suggestSelection": "first",
+		"editor.tabCompletion": "onlySnippets",
+		"editor.wordBasedSuggestions": false
+	},
+	"dartImport.fixOnSave": true,
+	"explorer.confirmDelete": false,
+	"editor.formatOnSave": true,
+	"zenMode.fullScreen": false,
+	"pubspec-assist.sortDependencies": false,
+	"dart.devToolsBrowser": "default",
+	"html.format.indentInnerHtml": true,
+	"zenMode.hideTabs": false,
+	"dart.showInspectorNotificationsForWidgetErrors": false,
+	"zenMode.centerLayout": false,
+	"window.zoomLevel": 2,
+	"workbench.colorTheme": "Solarized Light"
+}

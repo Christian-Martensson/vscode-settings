@@ -1,0 +1,9 @@
+{
+  "hw": {
+    "prefix": "hw",
+    "body": [
+      "Hello world"
+    ],
+    "description": ""
+  }
+}
